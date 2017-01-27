@@ -1,0 +1,51 @@
+.well{
+  min-width: 530px;
+  box-shadow: 1px 1px 5px #333 ;
+}
+.btn{
+  width: 100px;
+  margin-right: 15px;
+}
+.text-highlight{
+  font-size: 10rem;
+  color: #333;
+}
+
+.text-sec{
+  color: #878787;
+}
+
+.date-info{
+  //background-color: red;
+  font-size: 1.3rem;
+  //positon:absolute;
+}
+
+.text-span{
+  position:absolute;
+  float: left;
+  //background-color: red;
+  left: 61%;
+ top: 55px;
+  font-size: 2rem;
+}
+
+.sup-text{
+
+}
+.img-span{
+  position: absolute;
+  right: 0px;
+  top: 25px;
+  //background-color: red;
+
+}
+
+#weather-icon{
+  width: 130%;
+}
+
+#wind, #humidity{
+  font-size: 1.7rem;
+  
+}
